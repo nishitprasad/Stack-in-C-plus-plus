@@ -1,4 +1,4 @@
-# Stack-in-C-plus-plus
+# Stack-in-C++
 Stack Implementation in C++ programming language via challenge scenario
 
 A Stack has to be created with two methods **push** and **pop**. LinkedList class is used to keep track of the elements internally.
